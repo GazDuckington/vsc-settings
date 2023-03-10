@@ -70,8 +70,6 @@ enabled:
     uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
   - id: ms-toolsai.vscode-jupyter-slideshow
     uuid: e153ca70-b543-4865-b4c5-b31d34185948
-  - id: ms-vscode-remote.remote-containers
-    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
   - id: ms-vscode.vscode-typescript-next
     uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
   - id: naumovs.color-highlight
